@@ -106,6 +106,10 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.idea
+._Exp1.csv
+._Exp1.csv
+._Exp3.csv
 env/
 venv/
 ENV/
